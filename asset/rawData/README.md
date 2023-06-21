@@ -9,7 +9,7 @@ Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 2020 | - |11|-
 2021 | 63 |249|-
 2022 | 164 |581|3
-2023 | 1 |22|3
+2023 | 1 |27|3
 
 ### California Autonomous Vehicle Collision Reports(Short Form):  
 
